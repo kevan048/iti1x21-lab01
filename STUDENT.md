@@ -1,6 +1,6 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
+Student name: Katelyn Evans
+Student number: 8596842
 Course code: ITI1121
 Lab: Lab01
 Course section: 02
